@@ -21,7 +21,7 @@ What I've learned:
 
 * Log in GitHub Account
 * This GitHub URL is : https://github.com/lijing-code/Jing-React-Portfolio/tree/main
-* The live URL is : https://lijing-code.github.io/Professional-Materials/
+* The live URL is : https://lijing-code.github.io/Jing-React-Portfolio/
 
 ## Usage
 
