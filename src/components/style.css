@@ -104,7 +104,6 @@ span{
 }
 
 div{
-    border-left:5px solid var(--dark);
     display:block;  
 }
 
@@ -129,6 +128,28 @@ p{
     background-size:contain;
     background-repeat: no-repeat;
     background-position:center;
+}
+.project-one-img,.project-two-img, .project-three-img,.project-four-img,.project-five-img{
+    height: 100px;
+    width: 100%;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.project-one-img{
+    background-image:url('../image/MoviesTV\ Shows.png');
+}
+.project-two-img{
+    background-image:url('../image/Password\ Generator.png');
+}
+.project-three-img{
+    background-image:url('../image/Code\ Quiz.png');
+}
+.project-four-img{
+    background-image:url('../image/Work\ Day.png');
+}
+.project-five-img{
+    background-image:url('../image/Weather\ Dashboard.png');
 }
 
 /* For styling each link under class "projects" */
@@ -212,3 +233,4 @@ p{
         font-size:4vw;
     }
 }
+

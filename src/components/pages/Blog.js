@@ -2,14 +2,14 @@ import React from 'react';
 
 export default function Blog() {
   return (
-    <div>
+    
       <section class="work" id="work">
         <h1>Work</h1>
         <div class="projects">
           {/* Project One */}
-            <a class="project" href="https://bmorrissey34.github.io/Movies-TV-Search/">
+            <a class="project" id='project-one' href="https://bmorrissey34.github.io/Movies-TV-Search/">
                 <figure>
-                    <img src='./image/MoviesTV Shows.png' alt="Team Project One"/>
+                  <figure className="project-one-img"></figure>
                     <h3>Movies/TV Shows Search</h3>
                     <span>HTML/CSS/JavaScript</span>   
                 </figure>
@@ -18,7 +18,7 @@ export default function Blog() {
           {/* Project Two */}
           <a class="project" href="https://lijing-code.github.io/03-JS-Password-Generator/">
                     <figure>
-                        <img src="./asset/image/Password Generator.png" alt="Password Generator"/> 
+                    <figure className="project-two-img"></figure>
                         <h3>Password Generator</h3>
                         <span>JavaScript</span>
                     </figure>
@@ -27,7 +27,7 @@ export default function Blog() {
           {/* Project Three */}
           <a class="project" href="https://lijing-code.github.io/04-Web-APIs-Code-Quiz/">
                     <figure>
-                        <img src="./asset/image/Code Quiz.png" alt="Code Quiz"/>
+                    <figure className="project-three-img"></figure>
                         <h3>Code Quiz</h3>
                         <span>Web APIs</span>
                     </figure>
@@ -36,7 +36,7 @@ export default function Blog() {
           {/* Project Four */}
           <a class="project"  href=" https://lijing-code.github.io/05-Third-Party-APIs-Work-Day-Scheduler/">
                     <figure>
-                        <img src="./asset/image/Work Day.png" alt="Work Day Scheduler"/>
+                    <figure className="project-four-img"></figure>
                         <h3>Work Day Scheduler</h3>
                         <span>Third Party APIs</span>
                     </figure>
@@ -45,7 +45,7 @@ export default function Blog() {
           {/* Project Five */}
           <a class="project" href="https://lijing-code.github.io/06-Server-Side-APIs-Weather-Dashboard/">
                     <figure>
-                        <img src="./asset/image/Weather Dashboard.png" alt="Weather Dashboard"/>
+                    <figure className="project-five-img"></figure>
                         <h3>Weather Dashboard</h3>
                         <span>Server Side APIs</span>
                     </figure>
@@ -54,6 +54,6 @@ export default function Blog() {
             </div>
           
       </section>
-    </div>
+    
   );
 }
