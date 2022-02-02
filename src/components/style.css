@@ -101,3 +101,32 @@ p{
     background-repeat: no-repeat;
     background-position:center;
 }
+.resume-img {
+    height: 1000px;
+    width: 100%;
+    background-image:url('../image/resume.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.contact-me div ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.contact-me div ul li{
+    list-style-type: none;
+    color:var(--black);
+    border-bottom: 3px solid var(--dark);  
+    margin:4vw;
+    height:100%;  
+    font-size: 1.5vw; 
+}
+
+.contact-me div ul :hover{
+    cursor:grab;
+    background-color: var(--light);
+    font-size:25px;
+}
