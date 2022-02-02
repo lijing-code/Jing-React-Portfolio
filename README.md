@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my updated portfolio page based on my old version--repository name: Advanced CSS Portfolio using React
+This is my updated portfolio page based on my old version--repository name: Advanced CSS Portfolio using React.
 I updated one team project about a Movies/TV Shows search application which I finished with other three teammates, and four individual projects that I complished after I learned HTML, CSS, Javascript, and Apis.
 I also updated my resume link and LinkedIn portfolio with my coding experience and reorganized my GitHub repositories. 
 
