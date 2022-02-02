@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Jing-React-Portfolio/static/css/main.1a8a0596.css",
-    "main.js": "/Jing-React-Portfolio/static/js/main.e51e73d1.js",
+    "main.css": "/Jing-React-Portfolio/static/css/main.ce99e7dd.css",
+    "main.js": "/Jing-React-Portfolio/static/js/main.e8a5e2a3.js",
+    "static/media/resume.png": "/Jing-React-Portfolio/static/media/resume.4f4cc858479ca55abf6c.png",
+    "static/media/Background.jpg": "/Jing-React-Portfolio/static/media/Background.8e2da3277b4163992199.jpg",
     "index.html": "/Jing-React-Portfolio/index.html",
-    "main.1a8a0596.css.map": "/Jing-React-Portfolio/static/css/main.1a8a0596.css.map",
-    "main.e51e73d1.js.map": "/Jing-React-Portfolio/static/js/main.e51e73d1.js.map"
+    "main.ce99e7dd.css.map": "/Jing-React-Portfolio/static/css/main.ce99e7dd.css.map",
+    "main.e8a5e2a3.js.map": "/Jing-React-Portfolio/static/js/main.e8a5e2a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a8a0596.css",
-    "static/js/main.e51e73d1.js"
+    "static/css/main.ce99e7dd.css",
+    "static/js/main.e8a5e2a3.js"
   ]
 }
