@@ -27,6 +27,7 @@ header {
     flex-direction:row;
     flex-wrap: wrap;   
 }
+
 /* For name */
 h1 {   
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -38,12 +39,24 @@ h1 {
     margin-right: 5px 30px;
 }  
 
-/* For styling three main parts in HTML */
-section {
-    margin:30px 50px;
-    display:flex;
-    justify-content: flex-start
+/* For "About Me" "Work" "Contact Me" */
+h2 {
+    flex:0 0 20%;
+    text-align:right;
+    font-size:4vw;
+    color:var(--dark);
+    margin-right:20px;
 }
+
+/* For five projects title */
+h3{
+   position:absolute;
+   bottom:0;
+   left:0; 
+   border:20px solid var(--light);
+   background-color:var(--light);
+}
+
 /* Styling <nav> part */
 nav ul{
     margin: 10px 5px;   
@@ -69,6 +82,14 @@ nav ul li :hover{
     font-size:120%;
     cursor:grab;
 }
+
+/* For styling three main parts in HTML */
+section {
+    margin:30px 50px;
+    display:block;
+    justify-content: flex-start
+}
+
 /* For styling all the links */
 a{
     text-decoration:none;
@@ -110,6 +131,27 @@ p{
     background-position:center;
 }
 
+/* For styling each link under class "projects" */
+.projects a > *{
+    position:flex;
+    text-align:center;
+    display:flex;
+    border:5px solid var(--light);
+    margin:20px; 
+    filter:brightness(70%)      
+}
+
+/* For styling the cursor hover the 5 projects parts */
+.projects a :hover{
+   cursor:pointer;   
+   filter:brightness(100%);
+}
+
+.project figure img{
+    width:100%;
+    height:20vw; 
+}
+
 .contact-me div ul {
     display: flex;
     flex-wrap: wrap;
@@ -129,4 +171,44 @@ p{
     cursor:grab;
     background-color: var(--light);
     font-size:25px;
+}
+
+/* For presenting a responsive layout that adapts different device screens */
+@media screen and (max-width:980px){
+    header{
+        justify-content: center;
+        text-align:center;  
+    }
+
+    nav ul{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        text-align:left;
+        margin-left:25px;
+    }
+
+    section{
+        display:block;
+    }
+
+    h2{
+        font-size: 5vw;
+        border-bottom: 5px solid var(--dark);
+    }
+
+    div{
+        border-left:none;
+    }
+
+    
+
+    .contact-me ul{
+        display:block;
+        text-align:right;
+    }
+    
+    .contact-me ul li{
+        font-size:4vw;
+    }
 }
