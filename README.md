@@ -23,11 +23,12 @@ What I've learned:
 * This GitHub URL is : https://github.com/lijing-code/Jing-React-Portfolio/tree/main
 * The live URL is : https://lijing-code.github.io/Jing-React-Portfolio/
 
-## Usage
+## ScreenShot
 
 
 
-https://user-images.githubusercontent.com/68092036/132108569-c51b9bc2-904d-481c-886a-f405d10f4516.mp4
+<img width="1379" alt="Screen Shot 2022-02-02 at 1 23 47 AM" src="https://user-images.githubusercontent.com/68092036/152104589-b1c1a647-ffb8-4bff-99b8-c344fbf922bb.png">
+
 
 
     
