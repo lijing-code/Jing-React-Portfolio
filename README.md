@@ -45,7 +45,7 @@ What I've learned:
 
 * A Complete Guide to Links and Buttons by Chris Coyier: https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 
-* CSS cursor Property: https://www.w3schools.com/cssref/pr_class_cursor.asp
+* CSS cursor Property: https://www.w3schools.com/cssref/pr_className_cursor.asp
 
 ## License
 MIT License

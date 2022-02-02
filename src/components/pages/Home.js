@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Home() {
   return (
-    <section class="about-me" id="about-me">
+    <section className="about-me" id="about-me">
       <h1>About Me</h1>
       <div>
        <p>

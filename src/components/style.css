@@ -152,7 +152,7 @@ p{
     background-image:url('../image/Weather\ Dashboard.png');
 }
 
-/* For styling each link under class "projects" */
+/* For styling each link under className "projects" */
 .projects a > *{
     position:flex;
     text-align:center;
