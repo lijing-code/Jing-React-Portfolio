@@ -25,10 +25,7 @@ What I've learned:
 
 ## ScreenShot
 
-
-
-<img width="1379" alt="Screen Shot 2022-02-02 at 1 23 47 AM" src="https://user-images.githubusercontent.com/68092036/152104589-b1c1a647-ffb8-4bff-99b8-c344fbf922bb.png">
-
+<img width="1104" alt="Screen Shot 2022-02-02 at 1 46 39 AM" src="https://user-images.githubusercontent.com/68092036/152106819-67f92787-cdb9-4123-98ea-52a899a62e11.png">
 
 
     
