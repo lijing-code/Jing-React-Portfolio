@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/Jing-React-Portfolio/static/css/main.ce99e7dd.css",
-    "main.js": "/Jing-React-Portfolio/static/js/main.e8a5e2a3.js",
+    "main.css": "/Jing-React-Portfolio/static/css/main.f42917b9.css",
+    "main.js": "/Jing-React-Portfolio/static/js/main.f239244e.js",
+    "static/media/MoviesTV Shows.png": "/Jing-React-Portfolio/static/media/MoviesTV Shows.474e771957d81f85899c.png",
     "static/media/resume.png": "/Jing-React-Portfolio/static/media/resume.4f4cc858479ca55abf6c.png",
+    "static/media/Weather Dashboard.png": "/Jing-React-Portfolio/static/media/Weather Dashboard.fff033ff2b2f43f781ab.png",
     "static/media/Background.jpg": "/Jing-React-Portfolio/static/media/Background.8e2da3277b4163992199.jpg",
+    "static/media/Code Quiz.png": "/Jing-React-Portfolio/static/media/Code Quiz.1922ac4b906d5aad74d3.png",
+    "static/media/Password Generator.png": "/Jing-React-Portfolio/static/media/Password Generator.14ab854c034aaffe0897.png",
+    "static/media/Work Day.png": "/Jing-React-Portfolio/static/media/Work Day.84f264d49bbc2b2662d7.png",
     "index.html": "/Jing-React-Portfolio/index.html",
-    "main.ce99e7dd.css.map": "/Jing-React-Portfolio/static/css/main.ce99e7dd.css.map",
-    "main.e8a5e2a3.js.map": "/Jing-React-Portfolio/static/js/main.e8a5e2a3.js.map"
+    "main.f42917b9.css.map": "/Jing-React-Portfolio/static/css/main.f42917b9.css.map",
+    "main.f239244e.js.map": "/Jing-React-Portfolio/static/js/main.f239244e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce99e7dd.css",
-    "static/js/main.e8a5e2a3.js"
+    "static/css/main.f42917b9.css",
+    "static/js/main.f239244e.js"
   ]
 }
