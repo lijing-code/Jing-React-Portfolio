@@ -1,0 +1,103 @@
+/* The variables of colors */
+:root {
+    --dark:rgb(59, 59, 121);
+    --light:rgb(117, 230, 236);
+    --gray:rgb(235, 230, 230);
+    --black:black;
+    --background:rgb(202, 230, 241);
+}
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing:boder-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color:var(--gray);
+}
+
+header {
+    background-color:rgb(73, 69, 69);
+    padding:5px 0;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-direction:row;
+    flex-wrap: wrap;   
+}
+/* For name */
+h1 {   
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:40px;
+    font-weight:bold;
+    color:var(--dark);
+    background-color:var(--light);
+    padding: 5px 1% 5px 5%;   
+    margin-right: 5px 30px;
+}  
+
+/* For styling three main parts in HTML */
+section {
+    margin:30px 50px;
+    display:flex;
+    justify-content: flex-start
+}
+/* Styling <nav> part */
+nav ul{
+    margin: 10px 5px;   
+}
+
+nav ul li {
+    font-size:20px;
+    font-weight:bold;
+    display:inline-block;
+    justify-content:space-between;
+    margin:15px;
+    text-decoration: underline;
+}
+
+nav ul li a{
+    color:var(--light);
+}
+
+/* For styling the effection when the cursor hover the navigation bar */
+nav ul li :hover{
+    background-color:var(--light);
+    color:var(--dark);
+    font-size:120%;
+    cursor:grab;
+}
+/* For styling all the links */
+a{
+    text-decoration:none;
+    color:var(--black);
+}
+
+/* For styling the tools using for each projects*/
+span{
+    position:absolute;
+    bottom:0;
+    left:30px;
+}
+
+div{
+    border-left:5px solid var(--dark);
+    display:block;  
+}
+
+p{
+    color:var(--dark);
+    margin:20px 20px;
+}
+
+.background-img {
+    height: 300px;
+    width: 100%;
+    background-image:url('../image/Background.jpg');
+    background-color:var(--background);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+}
