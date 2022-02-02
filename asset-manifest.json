@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jing-React-Portfolio/static/css/main.f42917b9.css",
+    "main.css": "/Jing-React-Portfolio/static/css/main.f4f71c38.css",
     "main.js": "/Jing-React-Portfolio/static/js/main.f239244e.js",
     "static/media/MoviesTV Shows.png": "/Jing-React-Portfolio/static/media/MoviesTV Shows.474e771957d81f85899c.png",
     "static/media/resume.png": "/Jing-React-Portfolio/static/media/resume.4f4cc858479ca55abf6c.png",
@@ -10,11 +10,11 @@
     "static/media/Password Generator.png": "/Jing-React-Portfolio/static/media/Password Generator.14ab854c034aaffe0897.png",
     "static/media/Work Day.png": "/Jing-React-Portfolio/static/media/Work Day.84f264d49bbc2b2662d7.png",
     "index.html": "/Jing-React-Portfolio/index.html",
-    "main.f42917b9.css.map": "/Jing-React-Portfolio/static/css/main.f42917b9.css.map",
+    "main.f4f71c38.css.map": "/Jing-React-Portfolio/static/css/main.f4f71c38.css.map",
     "main.f239244e.js.map": "/Jing-React-Portfolio/static/js/main.f239244e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f42917b9.css",
+    "static/css/main.f4f71c38.css",
     "static/js/main.f239244e.js"
   ]
 }
